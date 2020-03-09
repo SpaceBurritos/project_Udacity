@@ -5,6 +5,11 @@ https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/models
 The video is from Jeff Nippard - Build Bigger Shoulders With Perfect Training Technique (The Overhead Press)
 link: https://www.youtube.com/watch?v=_RlRDWO2jfg&feature=emb_logo
 
+The output.avi is the output gotten from running the file
+The pose estimation has two colors - the green for the links on the body with a good form and the red ones for the links
+with a bad form
+
+
 For now you just have to run the OpenPoseVideo.py file with no arguments - because there is a lot videos that don't work with
 this program
 
