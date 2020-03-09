@@ -1,3 +1,12 @@
-1. RUN getModels.sh from command line.
-2. For Python program - you can change the mode by changing the MODE to COCO / MPI 
-3. For C++ - you can change the mode by changing the #define to COCO / MPI 
+RUN getModels.sh from command line to get the Pose-Estimation model
+The model of pose-estimation was:
+###############
+
+For now you just have to run the OpenPoseVideo.py file with no arguments - because there is a lot videos that don't work with
+this file
+
+I tried implementing this project with OpenVINO but there were some environmental variables that weren't working so for now
+i just did it without it, but in the future i will try to get it working with that
+
+Most of the file i will redoit, because now I know a better way to do everything
+
