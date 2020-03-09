@@ -1,9 +1,12 @@
 RUN getModels.sh from command line to get the Pose-Estimation model
 The model of pose-estimation was:
-###############
+https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/models
+
+The video is from Jeff Nippard - Build Bigger Shoulders With Perfect Training Technique (The Overhead Press)
+link: https://www.youtube.com/watch?v=_RlRDWO2jfg&feature=emb_logo
 
 For now you just have to run the OpenPoseVideo.py file with no arguments - because there is a lot videos that don't work with
-this file
+this program
 
 I tried implementing this project with OpenVINO but there were some environmental variables that weren't working so for now
 i just did it without it, but in the future i will try to get it working with that
